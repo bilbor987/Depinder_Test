@@ -1,4 +1,4 @@
 package tinyloggfeature;
 import org.pmw.tinylog.Logger;
-public class Class2 {
+public class TinyLogger8 {
 }
